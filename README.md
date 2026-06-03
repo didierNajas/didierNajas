@@ -22,4 +22,4 @@
 
 ## 📫 Contacto
 - ✉️ didiernajas2006@gmail.com  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/didiernajas](https://www.linkedin.com/in/didier-alexis-cuan-najas-developer-full-stack/))  
+- 💼 [LinkedIn](www.linkedin.com/in/didier-alexis-cuan-najas-developer-full-stack)  
