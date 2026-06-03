@@ -15,15 +15,8 @@
 ---
 
 ## 📂 Proyectos destacados
-- 🌱 [Historias de Café](https://github.com/didierNajas/historiasdecafe) → Landing page con diseño responsivo.  
-- ⚙️ [Sistema CRUD Bootcamp](https://github.com/didierNajas/allFulstack) → Gestión de usuarios con Java + MySQL.  
+- 🌱 [Historias de Café](https://historiasdecafe.github.io/e_commerce_historias_de_cafe/pages/users/users.html) → Landing page con diseño responsivo.  
 - 🛒 [Carrito de Compras](https://github.com/didierNajas/card-bootstrap-didier-Cuan) → Frontend con Bootstrap.  
-
----
-
-## 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didierNajas&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=didierNajas&layout=compact&theme=tokyonight)  
 
 ---
 
