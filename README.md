@@ -63,7 +63,7 @@ Aplicación web desarrollada con Java y Spring Boot.
 
 **Tecnologías:** Java · Spring Boot · MySQL · Bootstrap · REST API
 
-🔗 [Repositorio]([LINK_REPOSITORIO](https://didiernajas.github.io/aplicacionClima/))
+🔗 [Repositorio]((https://didiernajas.github.io/aplicacionClima/))
 
 ---
 
@@ -79,7 +79,7 @@ Aplicación web que consume APIs externas para mostrar información meteorológi
 
 **Tecnologías:** JavaScript · HTML · CSS · API REST
 
-🔗 [Repositorio]([LINK_REPOSITORIO](https://didiernajas.github.io/aplicacionClima/))
+🔗 [Repositorio]((https://didiernajas.github.io/aplicacionClima/))
 
 ---
 
@@ -95,7 +95,7 @@ Proyecto enfocado en testing y buenas prácticas de desarrollo.
 
 **Tecnologías:** Java · JUnit · Mockito
 
-🔗 [Repositorio]([LINK_REPOSITORIO](https://github.com/didierNajas/laboratorioPruebasUnitariasJunit.git))
+🔗 [Repositorio]((https://github.com/didierNajas/laboratorioPruebasUnitariasJunit.git))
 
 ---
 
@@ -111,9 +111,9 @@ Proyecto enfocado en testing y buenas prácticas de desarrollo.
 
 📧 **Correo:** [didiernajas2006@gmail.com](mailto:didiernajas2006@gmail.com)
 
-💼 **LinkedIn:** [TU_LINKEDIN](https://www.linkedin.com/in/didier-alexis-cuan-najas-developer-full-stack/)
+💼 **LinkedIn:** (https://www.linkedin.com/in/didier-alexis-cuan-najas-developer-full-stack/)
 
-🌐 **Portafolio:** [TU_PORTAFOLIO](https://didiernajas.github.io/Basic-portafolio/)
+🌐 **Portafolio:** (https://didiernajas.github.io/Basic-portafolio/)
 
 📍 **Ubicación:** Bogotá, Colombia
 
