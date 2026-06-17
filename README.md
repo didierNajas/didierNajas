@@ -99,14 +99,6 @@ Proyecto enfocado en testing y buenas prácticas de desarrollo.
 
 ---
 
-#  Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
-
----
-
 #  Contacto
 
  **Correo:** [didiernajas2006@gmail.com](mailto:didiernajas2006@gmail.com)
@@ -119,4 +111,4 @@ Proyecto enfocado en testing y buenas prácticas de desarrollo.
 
 ---
 
-> "El aprendizaje constante y la disciplina son las bases para construir grandes soluciones de software." 🚀
+> "El aprendizaje constante y la disciplina son las bases para construir grandes soluciones de software." 
