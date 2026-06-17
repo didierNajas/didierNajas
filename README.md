@@ -63,7 +63,7 @@ Aplicación web desarrollada con Java y Spring Boot.
 
 **Tecnologías:** Java · Spring Boot · MySQL · Bootstrap · REST API
 
-🔗 [Repositorio]((https://didiernajas.github.io/aplicacionClima/))
+🔗 [Repositorio][((https://didiernajas.github.io/aplicacionClima/))]
 
 ---
 
@@ -79,7 +79,7 @@ Aplicación web que consume APIs externas para mostrar información meteorológi
 
 **Tecnologías:** JavaScript · HTML · CSS · API REST
 
-🔗 [Repositorio]((https://didiernajas.github.io/aplicacionClima/))
+🔗 [Repositorio][((https://didiernajas.github.io/aplicacionClima/))]
 
 ---
 
@@ -95,7 +95,7 @@ Proyecto enfocado en testing y buenas prácticas de desarrollo.
 
 **Tecnologías:** Java · JUnit · Mockito
 
-🔗 [Repositorio]((https://github.com/didierNajas/laboratorioPruebasUnitariasJunit.git))
+🔗 [Repositorio][((https://github.com/didierNajas/laboratorioPruebasUnitariasJunit.git))]
 
 ---
 
